@@ -5,6 +5,7 @@ river-a7e
 
 @http
 get /api
+get /foo/bar
 
 @tables
 data
